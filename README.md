@@ -1,5 +1,15 @@
 ![Metrics](/github-metrics.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=99&duration=3000&pause=1000&color=0366D6&center=true&multiline=true&width=500&height=150&lines=JustJoy122)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJoy122&locale=cn&show_icons=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJoy122&locale=cn&show_icons=true&bg_color=00000000&&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=JustJoy122&locale=zh&theme=transparent)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JustJoy122&theme=minimal&background=00000000)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JustJoy122)](https://github.com/ryo-ma/github-profile-trophy)
